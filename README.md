@@ -1,6 +1,6 @@
 ### Salaam 👋, I'm Hendro
 
-I’m currently working as Freelancer. My focus is on Front End Developer, but still open to learning about other positions.
+I’m currently working as Front End Developer, but still open to learning about other positions.
 
 Moreover, as a game hobbyist, I did some casual game projects for mobile. Some projects use Augmented Reality as a feature. I wanna learn more about game development too.
 
