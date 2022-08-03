@@ -2,7 +2,7 @@
 
 I’m currently working as Front End Developer, but still open to learning about other positions.
 
-Moreover, as a game hobbyist, I did some casual game projects for mobile. Some projects use Augmented Reality as a feature. I wanna learn more about game development too.
+Moreover, as a game hobbyist, I did some casual game projects. Some projects for mobile use Augmented Reality as a feature. I wanna learn more about game development too.
 
 Here are just a few of the technical skills I bring to the table:
 - Web Development: HTML, JavaScript, Vue Js, Nuxt Js, Tailwind CSS
