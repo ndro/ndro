@@ -12,9 +12,10 @@ other skills I'm currently learning: Typescript, Godot (game engine)
 
 ⚡ and I am willing to **learn** other technical skills.
 
-📫 Please feel free to reach out to me via email or [@ndroTB](https://twitter.com/ndroTB) if you're interested in working together or would like to get to know me more!
 
 <!--
+📫 Please feel free to reach out to me via email or [@ndroTB](https://twitter.com/ndroTB) if you're interested in working together or would like to get to know me more!
+
 **ndro/ndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
