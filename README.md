@@ -1,16 +1,16 @@
 ### Salaam 👋, I'm Hendro
 
-I’m currently working as **Front End Developer**, but still open to learning about other positions.
+I’m currently working as **Software Engineer**, but still open to learning about other positions.
 
 Moreover, as a game hobbyist, I did some casual game projects. Some projects for mobile use Augmented Reality as a feature. I wanna learn more about game development too.
 
 Here are just a few of the technical skills I bring to the table:
-- Web Development: **HTML, JavaScript, Vue Js, Nuxt Js, Tailwind CSS**
+- Web Development
+  - Frontend : **HTML, JavaScript, Vue Js, Nuxt Js, Tailwind CSS**
+  - Backend  : **Node.Js, Nest.Js, Typescript**
 - Game Development: **Unity** *(Game Engine)*
 
-other skills I'm currently learning: Typescript, Godot (game engine)
-
-⚡ and I am willing to **learn** other technical skills.
+⚡ and I am willing to **learn** other technical or non technical skills.
 
 
 <!--
